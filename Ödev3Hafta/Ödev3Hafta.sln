@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32929.385
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ödev3Hafta", "Ödev3Hafta\Ödev3Hafta.csproj", "{658560A5-3D44-4AAA-B12B-A8C45E02B4BD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{658560A5-3D44-4AAA-B12B-A8C45E02B4BD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{658560A5-3D44-4AAA-B12B-A8C45E02B4BD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{658560A5-3D44-4AAA-B12B-A8C45E02B4BD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{658560A5-3D44-4AAA-B12B-A8C45E02B4BD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6CAAD86C-5C50-41D5-84E8-36483C9DF7E9}
+	EndGlobalSection
+EndGlobal

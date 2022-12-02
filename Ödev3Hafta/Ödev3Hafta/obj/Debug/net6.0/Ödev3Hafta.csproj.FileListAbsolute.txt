@@ -1,0 +1,15 @@
+C:\Users\furka\source\repos\Ödev3Hafta\Ödev3Hafta\bin\Debug\net6.0\Ödev3Hafta.exe
+C:\Users\furka\source\repos\Ödev3Hafta\Ödev3Hafta\bin\Debug\net6.0\Ödev3Hafta.deps.json
+C:\Users\furka\source\repos\Ödev3Hafta\Ödev3Hafta\bin\Debug\net6.0\Ödev3Hafta.runtimeconfig.json
+C:\Users\furka\source\repos\Ödev3Hafta\Ödev3Hafta\bin\Debug\net6.0\Ödev3Hafta.dll
+C:\Users\furka\source\repos\Ödev3Hafta\Ödev3Hafta\bin\Debug\net6.0\Ödev3Hafta.pdb
+C:\Users\furka\source\repos\Ödev3Hafta\Ödev3Hafta\obj\Debug\net6.0\Ödev3Hafta.csproj.AssemblyReference.cache
+C:\Users\furka\source\repos\Ödev3Hafta\Ödev3Hafta\obj\Debug\net6.0\Ödev3Hafta.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\furka\source\repos\Ödev3Hafta\Ödev3Hafta\obj\Debug\net6.0\Ödev3Hafta.AssemblyInfoInputs.cache
+C:\Users\furka\source\repos\Ödev3Hafta\Ödev3Hafta\obj\Debug\net6.0\Ödev3Hafta.AssemblyInfo.cs
+C:\Users\furka\source\repos\Ödev3Hafta\Ödev3Hafta\obj\Debug\net6.0\Ödev3Hafta.csproj.CoreCompileInputs.cache
+C:\Users\furka\source\repos\Ödev3Hafta\Ödev3Hafta\obj\Debug\net6.0\Ödev3Hafta.dll
+C:\Users\furka\source\repos\Ödev3Hafta\Ödev3Hafta\obj\Debug\net6.0\refint\Ödev3Hafta.dll
+C:\Users\furka\source\repos\Ödev3Hafta\Ödev3Hafta\obj\Debug\net6.0\Ödev3Hafta.pdb
+C:\Users\furka\source\repos\Ödev3Hafta\Ödev3Hafta\obj\Debug\net6.0\Ödev3Hafta.genruntimeconfig.cache
+C:\Users\furka\source\repos\Ödev3Hafta\Ödev3Hafta\obj\Debug\net6.0\ref\Ödev3Hafta.dll
